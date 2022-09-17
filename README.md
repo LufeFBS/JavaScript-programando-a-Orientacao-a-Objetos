@@ -9,7 +9,7 @@
 - Instância / Objeto
 - Operador new
 
-# Soore métodos 
+# Sobre métodos 
 - Função e métodos são termos sinônimos e que nos ajudam a criar um vocabulario mais rico dentro do nosso sistema.
 - Um método pode receber qualquer quantidade de parâmetro.
 - Um método define o comportamento ou a maneira de fazer algo.
